@@ -13,7 +13,7 @@ while True:
     line = CSS_answer_fp.readline()
     if not line: 
         break
-    read_lines.append(line.lower().strip().strip('\n'))
+    read_lines.append(line.lower().strip('\n').strip())
 CSS_answer_fp.close()
 
 print("/ CSS 채점 중...")
