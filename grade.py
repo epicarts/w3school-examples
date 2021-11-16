@@ -25,7 +25,7 @@ for i, css_lower_answer in enumerate(css_lower_answers):
     # 정답 찾기
     if css_lower_answer in read_lines:
         CSS_result[i] = True 
-print("총 개수 {}, 누락된 정답 표시".format(len(css_answers)))
+print("총 개수 {}, 맞은 개수 {}, 틀린 개수 {}, 누락된 정답 표시".format(len(css_answers), CSS_result.count(True), CSS_result.count(False)))
 for i,bool in enumerate(CSS_result):
     if bool == False:
         print(css_answers[i])
@@ -52,7 +52,7 @@ for i, css_lower_answer in enumerate(html_lower_answers):
     # 정답 찾기
     if css_lower_answer in read_lines:
         HTML_result[i] = True 
-print("총 개수 {}, 누락된 정답 표시".format(len(html_answers)))
+print("총 개수 {}, 맞은 개수 {}, 틀린 개수 {}, 누락된 정답 표시".format(len(HTML_result), HTML_result.count(True), HTML_result.count(False)))
 for i,bool in enumerate(HTML_result):
     if bool == False:
         print(html_answers[i])

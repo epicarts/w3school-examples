@@ -1,45 +1,64 @@
 2D transforms
 3D transforms
-Aligning Elements
+Aligning elements
+Attributes selectors
 Animations
-Attributes Selectors
 Backgrounds
 Backgrounds
-Border Images
 Borders
-Box Model
-Box Sizing
-Buttons
-Colors
-Combinators
-Comments
-Counters
-Display
-Dropdowns
-Flexbox
-Floating
-Fonts
-Forms
-Gradients
-Grid
-Height/Width
-How To / Where
-Icons
-Image Gallery
-Image Reflection
-Image Sprites
-Inline-block
-Links
+Border images
+buttons
+box sizing
+box model
+colors
+combinators
+counters
+comments
+display
+dropdowns
+flexbox
+floating
+forms
+fonts
+gradients
+grid
+height/width
+how to / where
+image gallery
+image sprites
+image reflection 
+icons
+inline-block
 Lists
+Links
 Margins
 Media Queries
-Media Queries - More Examples
-Multiple Columns
-Navigation Bars
-Object-fit
-Object-position
-Opacity
+Media Queries - more examples
+Multiple columns
+navigation Bars
+object fit
+object position
+overflow
 Outline
-Overflow
-Padding
-Pagination
+Opacity
+padding
+pagination
+Positioning
+Pseudo classes
+pseudo elements
+responsive webdesign
+r
+selectors
+shadow Effects
+syntax
+S
+Text
+Text Effects
+Tables
+Tooltips
+Trasitions
+user interface
+variables
+website layout
+web fonts
+
